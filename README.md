@@ -1,4 +1,4 @@
-# Python-Calculator-
+# Python-Calculator
 
 This is a Python Calculator!
 
